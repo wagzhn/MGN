@@ -1,0 +1,7 @@
+# Pycharm ignore
+.idea/
+# My ignore
+result
+data
+# Debug ignore
+temp
