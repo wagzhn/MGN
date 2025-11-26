@@ -16,6 +16,9 @@
         ├── get_data_LE_matrix.py   // Two-parameter LE computation
         └── show_data_LE_matrix.py  // Two-parameter LE visualization
 
+## Article
+https://doi.org/10.1142/S0218127425501640
+
 ## Contact
 
 Zhen Wang - epsilonnn@163.com
